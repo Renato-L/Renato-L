@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Renato 👋
 
-![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-L&show_icons=true&theme=dracula)
+![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=devrenatol&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-L&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrenatol&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
